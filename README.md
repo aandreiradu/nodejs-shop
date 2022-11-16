@@ -16,3 +16,11 @@
 - Generate invoices (PDF format) on the fly for your placed orders. [PdfKit][#pdfkit]
 - Checkout.
 - Pay your order using [Stripe][#stripe]
+
+![](https://github.com/aandreiradu/nodejs-shop/blob/main/images/2022-11-14T23:03:05.404ZGnom-580x386-removebg-preview.png)
+
+- NodeJS
+- MongoDB
+- Stripe
+- SendGrid
+- PDFKit
