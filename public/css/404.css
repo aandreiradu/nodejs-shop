@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.notFoundContainer {
+    height: calc(100vh - 3.5rem);
+    display: grid;
+    place-content: center;
+    place-items: center;
+    background-color: #000;
+}
+
+
+.notFoundTitle {
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+
+.notFoundDescription{
+    color: #fff;
+    font-size: 1.5rem;
+    max-width: 80%;
+    text-align: center;
+
+}

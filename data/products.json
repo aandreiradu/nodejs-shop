@@ -1,0 +1,30 @@
+[
+    {
+        "id": "0.07817083051224039",
+        "title": "Lord Of The Rings",
+        "description": "The Lord of the Rings is an epic high-fantasy novel by English author and scholar J. R. R. Tolkien. Set in Middle-earth, intended to be Earth at some time in the distant past, the story began as a sequel to Tolkien's 1937 children's book The Hobbit, but eventually developed into a much larger work",
+        "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fotakukart.com%2Fwp-content%2Fuploads%2F2020%2F12%2F81C5HEEKQBL.jpg&f=1&nofb=1&ipt=f17952a281bf63e84af7622181570c525066dd29a9d48dddec23db056e0a54c6&ipo=images",
+        "price": "105.99"
+    },
+    {
+        "id": "0.014391185742161694",
+        "title": "Rings of Power",
+        "description": "The Rings of Power are magical artefacts in J. R. R. Tolkien's legendarium, most prominently in his high fantasy novel The Lord of the Rings. The One Ring first appeared as a plot device, a magic ring in Tolkien's children's fantasy novel, The Hobbit; Tolkien later gave it a backstory and much greater power",
+        "imageURL": "https://m.media-amazon.com/images/M/MV5BNTg3NjcxYzgtYjljNC00Y2I2LWE3YmMtOTliZTkwYTE1MmZiXkEyXkFqcGdeQXVyNTY4NDc5MDE@._V1_FMjpg_UX1000_.jpg",
+        "price": "199.99"
+    },
+    {
+        "id": "0.9772620605722024",
+        "title": "Game Of Thrones",
+        "description": "Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss for HBO. It is an adaptation of A Song of Ice and Fire, a series of fantasy novels by George R. R. Martin, the first of which is A Game of Thrones",
+        "imageURL": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+        "price": "99.99"
+    },
+    {
+        "id": "1000",
+        "title": "House Of Dragon",
+        "description": "House of the Dragon is an American fantasy drama television series. An independent prequel to Game of Thrones, it is the second show in the franchise, created by George R. R. Martin and Ryan Condal for HBO. Condal and Miguel Sapochnik are the showrunners",
+        "imageURL": "https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "price": "99.99"
+    }
+]

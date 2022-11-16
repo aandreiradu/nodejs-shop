@@ -16,4 +16,3 @@
 - Generate invoices (PDF format) on the fly for your placed orders. [PdfKit][#pdfkit]
 - Checkout.
 - Pay your order using [Stripe][#stripe]
-# nodejs-shop
